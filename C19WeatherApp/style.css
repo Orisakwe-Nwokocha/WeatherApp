@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 .container {
@@ -44,7 +44,10 @@ h2 {
 #result {
     display: flex;
     justify-content: center;
+    align-items: center;
     margin-top: 30px;
     margin-bottom: 10px;
     color: white;
+    text-align: center;
+
 }
